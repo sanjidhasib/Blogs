@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "cover": "https://plus.unsplash.com/premium_photo-1684581214880-2043e5bc8b8b?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "The Enigma of the Sapphire Star",
+    "author": "Miranda Blackwood",
+    "author_img": "https://media.istockphoto.com/id/1129886751/photo/young-man-copywriter-in-a-suit-typing-on-laptop-and-smiling.jpg?s=612x612&w=0&k=20&c=g6HKphKy9qxPolAzufyJyzYIX8cEyWM4p-80px2ki8U=",
+    "posted_date": "2024-03-10",
+    "reading_time": "15",
+    "hashtag": "#Mystery #Adventure"
+  },
+  {
+    "id":2,
+    "cover": "https://images.unsplash.com/photo-1515204230490-1ad00b70ed3d?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Symphony of Shadows",
+    "author": "Xavier Nightingale",
+    "author_img": "https://media.istockphoto.com/id/1466761672/photo/serious-woman-working-with-laptop-and-document-and-camera.jpg?s=612x612&w=0&k=20&c=RH7rmwYUjjjs-e9Jyl3hQB1xMfJFyQdnpZHotwRVsp8=",
+    "posted_date": "2024-03-11",
+    "reading_time": "20",
+    "hashtag": "#Fantasy #Magic"
+  },
+  {
+    "id":3,
+    "cover": "https://images.unsplash.com/photo-1518082049942-62a4e31b18d3?q=80&w=868&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Beyond the Binary: Exploring AI Ethics",
+    "author": "Aiden Gray",
+    "author_img": "https://media.istockphoto.com/id/1210748683/photo/business-woman-in-business-suit-at-the-desk-at-work-in-the-office-with-books.jpg?s=612x612&w=0&k=20&c=arwJl9mTcAMJak8HnlBUx1C5kb600xNXkgTByjou_SI=",
+    "posted_date": "2024-03-12",
+    "reading_time": "10",
+    "hashtag": "#Technology #Ethics"
+  },
+  {
+    "id":4,
+    "cover": "https://media.istockphoto.com/id/1839727526/photo/flat-lay-concept-of-notebook-with-blooming-bookmarks-on-white-wooden-background.jpg?s=612x612&w=0&k=20&c=IzBTDOJVSuDR22feA_5TWaoR90cpBmYNiqerJ4f_WGY=",
+    "title": "The Lost City of Atlantis: Myth or Reality?",
+    "author": "Evelyn Waters",
+    "author_img": "https://media.istockphoto.com/id/832186974/photo/young-athletic-man-and-student-studying-and-writing-notes-in-public-or-school-library-in.jpg?s=612x612&w=0&k=20&c=YIt5fCDjpHTO4uQO7Mf2xeKUXkENZyy2Y7DxnZ1xUq8=",
+    "posted_date": "2024-03-09",
+    "reading_time": "25",
+    "hashtag": "#History #Legend"
+  },
+  {
+    "id":5,
+    "cover": "https://plus.unsplash.com/premium_photo-1683309568422-dd7ce2288a4c?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Starlight Sonata",
+    "author": "Orion Stellaris",
+    "author_img": "https://media.istockphoto.com/id/1486663269/photo/evening-readers-in-the-library.jpg?s=612x612&w=0&k=20&c=PK6xBq7Aa5PS6LNXKedJOPCEUhZKFReozCSTHXjUU08=",
+    "posted_date": "2024-03-08",
+    "reading_time": "18",
+    "hashtag": "#SciFi #SpaceExploration"
+  }
+]
+ 
